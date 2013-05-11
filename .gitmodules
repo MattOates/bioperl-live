@@ -1,0 +1,9 @@
+[submodule "biodist/Bio-Root"]
+	path = biodist/Bio-Root
+	url = https://github.com/bioperl/Bio-Root.git
+[submodule "biodist/Bio-FeatureIO"]
+	path = biodist/Bio-FeatureIO
+	url = https://github.com/bioperl/Bio-FeatureIO.git
+[submodule "biodist/Bio-Coordinate"]
+	path = biodist/Bio-Coordinate
+	url = https://github.com/bioperl/Bio-Coordinate.git
